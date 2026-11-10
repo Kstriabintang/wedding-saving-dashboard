@@ -6,7 +6,7 @@
 
 Dashboard tabungan pernikahan untuk dua orang — setiap setoran QRIS terverifikasi otomatis, tidak ada yang dicatat manual.
 
-[![Live](https://img.shields.io/badge/live-weddingsaving.my.id-d9b06c?style=for-the-badge&logo=cloudflare&logoColor=white)](https://weddingsaving.my.id)
+[![Live](https://img.shields.io/badge/live-weddingsaving.ksatriabintangsamudra.com-d9b06c?style=for-the-badge&logo=cloudflare&logoColor=white)](https://weddingsaving.ksatriabintangsamudra.com)
 [![Demo](https://img.shields.io/badge/demo-demo.weddingsaving.my.id-5fbf8a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://demo.weddingsaving.my.id)
 
 ![Vue](https://img.shields.io/badge/Vue-3.5-42b883?style=flat-square&logo=vuedotjs&logoColor=white)
@@ -35,7 +35,7 @@ Ini alat pribadi untuk dua akun tetap (lihat bagian [Kode sumber](#kode-sumber))
 **Demo — [demo.weddingsaving.my.id](https://demo.weddingsaving.my.id)**
 Satu tombol, tanpa pendaftaran, tanpa OTP sungguhan yang perlu diterima siapa pun. Demo berjalan di atas basis data yang terpisah total dari data asli, diisi data contoh (nama Andi & Sari yang muncul di tangkapan layar di bawah), sehingga aman dijelajahi — masuk, buka dashboard, buat kode QRIS — tanpa pernah menyentuh tabungan sungguhan.
 
-**Situs penjelasan — [weddingsaving.my.id](https://weddingsaving.my.id)**
+**Situs penjelasan — [weddingsaving.ksatriabintangsamudra.com](https://weddingsaving.ksatriabintangsamudra.com)**
 Halaman publik yang menjelaskan aplikasi ini untuk pengunjung yang belum tahu konteksnya: apa ini, untuk siapa, dan bagaimana alur pembayarannya bekerja.
 
 ---
